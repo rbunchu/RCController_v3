@@ -324,3 +324,15 @@ void LiquidCrystal::write8bits(uint8_t value) {
   
   pulseEnable();
 }
+
+void * get_liquid_crystal(uint8_t rs, uint8_t enable, uint8_t d0, uint8_t d1, uint8_t d2, uint8_t d3)
+{
+	LiquidCrystal *obj = new LiquidCrystal(rs, enable, d0, d1, d2, d3);
+	return reinterpret_cast< void* >(obj);
+}
+
+void free_liquid_crystal(void * obj)
+{
+	LiquidCrystal *lcd = reinterpret_cast< LiquidCrystal* >(obj);
+	delete lcd;
+}
