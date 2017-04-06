@@ -3,16 +3,18 @@
 
 #include "tact_switch_board.h"
 #include "led_shift_register.h"
-//#include "LiquidCrystal.h"
+#include "liquid_crystal_wrapper.h"
 
 typedef struct controller
 {
     tact_switch_board *switches;
     led_shift_register *leds;
+	LiquidCrystal *lcd;
 } controller;
 
 
 void controller_initialize(controller *);
-//static LiquidCrystal lcd(8, 9, 4, 5, 6, 7);
+void controller_interrupt_buttons();
+
 
 #endif

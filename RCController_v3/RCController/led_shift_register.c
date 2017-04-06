@@ -5,9 +5,11 @@ static void led_shift_register_write(led_shift_register *, short);
 
 void led_shift_register_test(led_shift_register *shift_register)
 {
-    for(shift_register->led_state = 0; shift_register->led_state <= 128; shift_register->led_state = shift_register->led_state * 2)
+	shift_register->led_state = 1;
+    for(shift_register->led_state; shift_register->led_state <= 128; shift_register->led_state = shift_register->led_state * 2)
     {
       led_shift_register_write(shift_register, shift_register->led_state);
+	  delay(200);
     }
     
     led_shift_register_reset(shift_register);

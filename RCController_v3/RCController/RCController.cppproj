@@ -239,6 +239,12 @@
     <Compile Include="LiquidCrystal.h">
       <SubType>compile</SubType>
     </Compile>
+    <Compile Include="liquid_crystal_wrapper.cpp">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="liquid_crystal_wrapper.h">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="sketch.c">
       <SubType>compile</SubType>
     </Compile>

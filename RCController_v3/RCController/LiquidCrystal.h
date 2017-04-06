@@ -42,7 +42,6 @@
 #define LCD_5x10DOTS 0x04
 #define LCD_5x8DOTS 0x00
 
-#ifdef __cplusplus
 class LiquidCrystal : public Print {
 public:
   LiquidCrystal(uint8_t rs, uint8_t enable,
@@ -106,22 +105,4 @@ private:
   uint8_t _row_offsets[4];
 };
 
-#endif
-
-#ifdef __cplusplus
-extern "C" {
-#endif
-	
-//Here goes c functions
-void * get_liquid_crystal(uint8_t, uint8_t, uint8_t, uint8_t, uint8_t, uint8_t);
-void free_liquid_crystal(void *);
-void clear(void *);
-void begin(void *, uint8_t, uint8_t);
-void set_cursor(void *, uint8_t, uint8_t);
-void print(void *, const char *);
-	
-#ifdef __cplusplus
-}
-#endif
-	
 #endif
