@@ -10,6 +10,7 @@ typedef struct led_shift_register
     short clock_pin;
     short latch_pin;
     short led_state;
+	short output_enable;
 } led_shift_register;
 
 /*
@@ -17,6 +18,7 @@ typedef struct led_shift_register
 *   to the last output. 8 Leds in total
 */
 void led_shift_register_test(led_shift_register *);
+void led_shift_register_init(led_shift_register *);
 void led_shift_register_reset(led_shift_register *);
 void led_shift_register_on(led_shift_register*, info_led_type);
 void led_shift_register_off(led_shift_register*, info_led_type);

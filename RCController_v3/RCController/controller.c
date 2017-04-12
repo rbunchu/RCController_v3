@@ -1,30 +1,21 @@
 #include "controller.h"
 
-tact_switch_board controller_tact_switches;
-
 void controller_initialize(controller *self)
 {   
-    self->switches = &controller_tact_switches;
+    self->switches = malloc(sizeof(tact_switch_board));
     self->switches->data_pin = 1;
     self->switches->interrupt_pin = 2;
+	tact_switch_board_init(self->switches);
   
     self->leds = malloc(sizeof(led_shift_register));
     self->leds->data_pin = 53;
     self->leds->clock_pin = 49;
     self->leds->latch_pin = 51;
+	self->leds->output_enable = 47;
 
-	pinMode(47, OUTPUT);
-	digitalWrite(47, HIGH);
+	led_shift_register_init(self->leds);
 
-	pinMode(self->leds->data_pin, OUTPUT);
-	pinMode(self->leds->clock_pin, OUTPUT);
-	pinMode(self->leds->latch_pin, OUTPUT);
 	pinMode(self->switches->interrupt_pin, OUTPUT);
-
-	digitalWrite(self->leds->data_pin, LOW);
-	digitalWrite(self->leds->clock_pin, LOW);
-	digitalWrite(self->leds->latch_pin, LOW);
-
 	attachInterrupt(self->switches->interrupt_pin, controller_interrupt_buttons, RISING);
   
 	self->lcd = lcd_get(8, 9, 4, 5, 6, 7);
@@ -36,9 +27,8 @@ void controller_initialize(controller *self)
     delay(2000);
 	lcd_clear(self->lcd);
 	lcd_set_cursor(self->lcd, 0, 0);
-	delay(1000);
 	led_shift_register_reset(self->leds);
-	digitalWrite(47, LOW);
+	digitalWrite(self->leds->output_enable, LOW);
 	lcd_print(self->lcd, "Testing LEDs...");
     //Testing controller info leds
     led_shift_register_test(self->leds);
@@ -48,5 +38,6 @@ void controller_initialize(controller *self)
 
 void controller_interrupt_buttons()
 {
-
+	int value = analogRead(rc_controller.switches->data_pin);
+	analog_button button = tact_switch_button_pressed(rc_controller.switches, value);
 }

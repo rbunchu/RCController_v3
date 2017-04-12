@@ -3,6 +3,20 @@
 static void led_shift_register_write(led_shift_register *, short);
 
 
+void led_shift_register_init(led_shift_register * shift_register)
+{
+	pinMode(shift_register->output_enable, OUTPUT);
+	digitalWrite(shift_register->output_enable, HIGH);
+
+	pinMode(shift_register->clock_pin, OUTPUT);
+	pinMode(shift_register->data_pin, OUTPUT);
+	pinMode(shift_register->latch_pin, OUTPUT);
+
+	digitalWrite(shift_register->clock_pin, LOW);
+	digitalWrite(shift_register->data_pin, LOW);
+	digitalWrite(shift_register->latch_pin, LOW);
+}
+
 void led_shift_register_test(led_shift_register *shift_register)
 {
 	shift_register->led_state = 1;
