@@ -13,10 +13,17 @@ void controller_initialize(controller *self)
     self->leds->clock_pin = 49;
     self->leds->latch_pin = 51;
 
+	pinMode(47, OUTPUT);
+	digitalWrite(47, HIGH);
+
 	pinMode(self->leds->data_pin, OUTPUT);
 	pinMode(self->leds->clock_pin, OUTPUT);
 	pinMode(self->leds->latch_pin, OUTPUT);
 	pinMode(self->switches->interrupt_pin, OUTPUT);
+
+	digitalWrite(self->leds->data_pin, LOW);
+	digitalWrite(self->leds->clock_pin, LOW);
+	digitalWrite(self->leds->latch_pin, LOW);
 
 	attachInterrupt(self->switches->interrupt_pin, controller_interrupt_buttons, RISING);
   
@@ -29,6 +36,9 @@ void controller_initialize(controller *self)
     delay(2000);
 	lcd_clear(self->lcd);
 	lcd_set_cursor(self->lcd, 0, 0);
+	delay(1000);
+	led_shift_register_reset(self->leds);
+	digitalWrite(47, LOW);
 	lcd_print(self->lcd, "Testing LEDs...");
     //Testing controller info leds
     led_shift_register_test(self->leds);
