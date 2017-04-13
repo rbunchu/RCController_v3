@@ -18,7 +18,7 @@ typedef struct led_shift_register
 *   to the last output. 8 Leds in total
 */
 void led_shift_register_test(led_shift_register *);
-void led_shift_register_init(led_shift_register *);
+led_shift_register *led_shift_register_create(short, short, short, short);
 void led_shift_register_reset(led_shift_register *);
 void led_shift_register_on(led_shift_register*, info_led_type);
 void led_shift_register_off(led_shift_register*, info_led_type);
