@@ -215,6 +215,12 @@
     <Compile Include="analog_button.h">
       <SubType>compile</SubType>
     </Compile>
+    <Compile Include="analog_joystick.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="analog_joystick.h">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="controller.c">
       <SubType>compile</SubType>
     </Compile>

@@ -2,6 +2,8 @@
 # Automatically-generated file. Do not edit or delete the file
 ################################################################################
 
+analog_joystick.c
+
 controller.c
 
 led_shift_register.c
