@@ -5,7 +5,15 @@ typedef enum {
 	LIGHT_BUTTON = 1,
 	BUTTON_2 = 2,
 	BUTTON_3 = 3,
-	BUTTON_4 = 4
+	/* Button turns on options routine, if routine is in action blocks all actions */
+	OPTIONS_BUTTON = 4,
+	/* Option buttons near lcd screen */
+	BUTTON_OPTION_LEFT = 5,
+	BUTTON_OPTION_RIGHT = 6,
+	BUTTON_OPTION_UP = 7,
+	BUTTON_OPTION_DOWN = 8,
+	BUTTON_OPTION_CONFIRM = 9,
+	Button_OPTION_RESET = 10
 } button_type;
 
 typedef enum {

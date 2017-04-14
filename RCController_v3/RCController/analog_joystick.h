@@ -4,6 +4,9 @@
 typedef struct analog_joystick {
   short analog_x;
   short analog_y;
+  /*
+  * This button must be connected to interrupt pin
+  */
   short action_button;
 } analog_joystick;
 

@@ -21,6 +21,9 @@ extern controller rc_controller;
 
 void controller_initialize(controller *);
 void controller_interrupt_buttons();
+void controller_interrupt_joystick_left();
+void controller_interrupt_joystick_right();
+void controller_clear(controller *);
 
 
 #endif
