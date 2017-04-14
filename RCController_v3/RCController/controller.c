@@ -8,13 +8,6 @@ void controller_initialize(controller *self)
 	self->joystic_left = analog_joystick_create(1, 5, 6);
 	self->joystic_right = analog_joystick_create(1, 7, 4);
 
-	pinMode(self->switches->interrupt_pin, OUTPUT);
-	pinMode(self->joystic_left->action_button, OUTPUT);
-	pinMode(self->joystic_right->action_button, OUTPUT);
-	attachInterrupt(self->switches->interrupt_pin, controller_interrupt_buttons, RISING);
-	attachInterrupt(self->joystic_left->action_button, controller_interrupt_joystick_left, RISING);
-	attachInterrupt(self->joystic_right->action_button, controller_interrupt_joystick_right, RISING);
-  
 	self->lcd = lcd_get(8, 9, 4, 5, 6, 7);
 	lcd_begin(self->lcd, 16, 2);
 	lcd_set_cursor(self->lcd, 0, 0);
@@ -31,6 +24,13 @@ void controller_initialize(controller *self)
 	led_shift_register_test(self->leds);
 	lcd_clear(self->lcd);
 	lcd_print(self->lcd, "WELCOME");
+
+	pinMode(self->switches->interrupt_pin, OUTPUT);
+	pinMode(self->joystic_left->action_button, OUTPUT);
+	pinMode(self->joystic_right->action_button, OUTPUT);
+	attachInterrupt(self->switches->interrupt_pin, controller_interrupt_buttons, RISING);
+	attachInterrupt(self->joystic_left->action_button, controller_interrupt_joystick_left, RISING);
+	attachInterrupt(self->joystic_right->action_button, controller_interrupt_joystick_right, RISING);
 }
 
 void controller_interrupt_buttons()
