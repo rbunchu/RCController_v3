@@ -8,8 +8,8 @@
 controller rc_controller;
 
 void setup() {
-  // put your setup code here, to run once:
-  controller_initialize(&rc_controller);
+	// put your setup code here, to run once:
+	controller_initialize(&rc_controller);
 }
 
 void loop() {

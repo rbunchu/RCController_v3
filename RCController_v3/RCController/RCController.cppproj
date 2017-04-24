@@ -227,6 +227,12 @@
     <Compile Include="controller.h">
       <SubType>compile</SubType>
     </Compile>
+    <Compile Include="hardware_serial_wrapper.cpp">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="hardware_serial_wrapper.h">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="led_shift_register.c">
       <SubType>compile</SubType>
     </Compile>

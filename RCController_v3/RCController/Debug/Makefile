@@ -39,6 +39,7 @@ SUBDIRS :=
 C_SRCS +=  \
 ../analog_joystick.c \
 ../controller.c \
+../hardware_serial_wrapper.cpp \
 ../led_shift_register.c \
 ../light_control_leds.c \
 ../LiquidCrystal.cpp \
@@ -56,6 +57,7 @@ ASM_SRCS +=
 OBJS +=  \
 analog_joystick.o \
 controller.o \
+hardware_serial_wrapper.o \
 led_shift_register.o \
 light_control_leds.o \
 LiquidCrystal.o \
@@ -66,6 +68,7 @@ tact_switch_board.o
 OBJS_AS_ARGS +=  \
 analog_joystick.o \
 controller.o \
+hardware_serial_wrapper.o \
 led_shift_register.o \
 light_control_leds.o \
 LiquidCrystal.o \
@@ -76,6 +79,7 @@ tact_switch_board.o
 C_DEPS +=  \
 analog_joystick.d \
 controller.d \
+hardware_serial_wrapper.d \
 led_shift_register.d \
 light_control_leds.d \
 LiquidCrystal.d \
@@ -86,6 +90,7 @@ tact_switch_board.d
 C_DEPS_AS_ARGS +=  \
 analog_joystick.d \
 controller.d \
+hardware_serial_wrapper.d \
 led_shift_register.d \
 light_control_leds.d \
 LiquidCrystal.d \
@@ -108,6 +113,8 @@ LINKER_SCRIPT_DEP+=
 
 
 # AVR32/GNU C Compiler
+
+
 
 
 

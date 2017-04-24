@@ -6,6 +6,9 @@
 #include "light_control_leds.h"
 #include "liquid_crystal_wrapper.h"
 #include "analog_joystick.h"
+#ifdef DEBUG
+#include "hardware_serial_wrapper.h"
+#endif
 
 typedef struct controller
 {
@@ -15,6 +18,9 @@ typedef struct controller
 	LiquidCrystal *lcd;
 	analog_joystick *joystic_left;
 	analog_joystick *joystic_right;
+	#ifdef DEBUG
+	HardwareSerial *logger;
+	#endif
 } controller;
 
 extern controller rc_controller;

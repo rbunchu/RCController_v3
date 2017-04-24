@@ -6,6 +6,8 @@ analog_joystick.c
 
 controller.c
 
+hardware_serial_wrapper.cpp
+
 led_shift_register.c
 
 light_control_leds.c

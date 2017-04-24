@@ -23,7 +23,8 @@ controller.d controller.o: .././controller.c .././controller.h \
  ..\\..\ArduinoCore\include\Core/binary.h \
  ..\\..\ArduinoCore\include\variants\mega/pins_arduino.h \
  .././led_shift_register.h .././light_control_leds.h \
- .././liquid_crystal_wrapper.h .././analog_joystick.h
+ .././liquid_crystal_wrapper.h .././analog_joystick.h \
+ .././hardware_serial_wrapper.h
 
 .././controller.h:
 
@@ -84,3 +85,5 @@ f:\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\avr\interrupt.
 .././liquid_crystal_wrapper.h:
 
 .././analog_joystick.h:
+
+.././hardware_serial_wrapper.h:
