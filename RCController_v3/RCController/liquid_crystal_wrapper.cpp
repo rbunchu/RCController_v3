@@ -5,8 +5,8 @@
  *  Author: Bunchu
  */ 
 
- #include "LiquidCrystal.h"
- #include "liquid_crystal_wrapper.h"
+ #include <LiquidCrystal.h>
+ #include <liquid_crystal_wrapper.h>
 
  extern "C"
  {

@@ -1,13 +1,13 @@
 #ifndef CONTROLLER_H
 #define CONTROLLER_H
 
-#include "tact_switch_board.h"
-#include "led_shift_register.h"
-#include "light_control_leds.h"
-#include "liquid_crystal_wrapper.h"
-#include "analog_joystick.h"
+#include <tact_switch_board.h>
+#include <led_shift_register.h>
+#include <light_control_leds.h>
+#include <liquid_crystal_wrapper.h>
+#include <analog_joystick.h>
 #ifdef DEBUG
-#include "hardware_serial_wrapper.h"
+#include <hardware_serial_wrapper.h>
 #endif
 
 typedef struct controller

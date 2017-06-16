@@ -1,95 +1,95 @@
 Archive member included to satisfy reference by file (symbol)
 
-C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
                               hardware_serial_wrapper.o (_ZN14HardwareSerial5beginEmh)
-C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
                               hardware_serial_wrapper.o (Serial)
-C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
-                              F:/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o (main)
-C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
+C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o (main)
+C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
                               LiquidCrystal.o (_Znwj)
-C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
                               LiquidCrystal.o (_ZN5Print5writeEPKhj)
-C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
                               controller.o (attachInterrupt)
-C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
                               controller.o (delay)
-C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
                               controller.o (analogRead)
-C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                               controller.o (pinMode)
-C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
+C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
                               led_shift_register.o (shiftOut)
-C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
-                              C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
-C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
-                              C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o) (yield)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
-                              C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__subsf3)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
-                              f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o) (__addsf3x)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o)
-                              C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__ltsf2)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3.o)
-                              C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__divsf3)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3x.o)
-                              f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3.o) (__divsf3x)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
-                              C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__fixunssfsi)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(floatsisf.o)
-                              C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__floatunsisf)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
-                              f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o) (__fp_cmp)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
-                              f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_inf)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
-                              f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_nan)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
-                              f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_pscA)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
-                              f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_pscB)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
-                              f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o) (__fp_round)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
-                              f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_split3)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
-                              f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_zero)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(gesf2.o)
-                              C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__gtsf2)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
-                              C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__mulsf3)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
-                              f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o) (__mulsf3x)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(unordsf2.o)
-                              C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__unordsf2)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
-                              C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (__udivmodsi4)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
-                              F:/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o (exit)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
-                              C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o) (__tablejump2__)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                              C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
+C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                              C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o) (yield)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
+                              C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__subsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o) (__addsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o)
+                              C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__ltsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3.o)
+                              C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__divsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3.o) (__divsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
+                              C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__fixunssfsi)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(floatsisf.o)
+                              C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__floatunsisf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o) (__fp_cmp)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_inf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_nan)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_pscA)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_pscB)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o) (__fp_round)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_split3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_zero)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(gesf2.o)
+                              C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__gtsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+                              C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__mulsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o) (__mulsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(unordsf2.o)
+                              C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__unordsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+                              C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (__udivmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+                              C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o) (__tablejump2__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
                               controller.o (__do_copy_data)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
                               controller.o (__do_clear_bss)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
-                              C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o) (__do_global_ctors)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+                              C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o) (__do_global_ctors)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
                               analog_joystick.o (malloc)
-f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(abort.o)
-                              C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o) (abort)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(abort.o)
+                              C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o) (abort)
 
 Allocating common symbols
 Common symbol       size              file
 
 rc_controller       0xe               sketch.o
-__brkval            0x2               f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
-__flp               0x2               f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+__brkval            0x2               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+__flp               0x2               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
 
 Discarded input sections
 
- .data          0x00000000        0x0 F:/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
- .bss           0x00000000        0x0 F:/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
  .text          0x00000000        0x0 analog_joystick.o
  .data          0x00000000        0x0 analog_joystick.o
  .bss           0x00000000        0x0 analog_joystick.o
@@ -167,325 +167,325 @@ Discarded input sections
  .text          0x00000000        0x0 tact_switch_board.o
  .data          0x00000000        0x0 tact_switch_board.o
  .bss           0x00000000        0x0 tact_switch_board.o
- .group         0x00000000        0x8 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .text          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .data          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .bss           0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .group         0x00000000        0x8 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .data          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .bss           0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
  .text._ZN14HardwareSerial3endEv
-                0x00000000       0x44 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000000       0x44 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
  .text._ZN14HardwareSerial17availableForWriteEv
-                0x00000000       0x1e C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .text          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .data          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .bss           0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .text          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .data          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .bss           0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .text.atexit   0x00000000        0x6 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000000       0x1e C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .data          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .bss           0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .data          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .bss           0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .text.atexit   0x00000000        0x6 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
  .text._Z8setupUSBv
-                0x00000000        0x2 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .text          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
- .data          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
- .bss           0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
- .text._Znaj    0x00000000        0x4 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
- .text._ZdlPv   0x00000000        0x4 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
- .text._ZdaPv   0x00000000        0x4 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
- .group         0x00000000        0x8 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .group         0x00000000        0x8 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .text          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .data          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .bss           0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0x2 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .text          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
+ .data          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
+ .bss           0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
+ .text._Znaj    0x00000000        0x4 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
+ .text._ZdlPv   0x00000000        0x4 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
+ .text._ZdaPv   0x00000000        0x4 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
+ .group         0x00000000        0x8 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .data          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .bss           0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEPK19__FlashStringHelper
-                0x00000000       0x48 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x48 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printERK6String
-                0x00000000       0x1c C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x1c C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEc
-                0x00000000        0xe C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0xe C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printERK9Printable
-                0x00000000       0x14 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x14 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEPK19__FlashStringHelper
-                0x00000000       0x24 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnERK6String
-                0x00000000       0x24 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEc
-                0x00000000       0x24 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnERK9Printable
-                0x00000000       0x24 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print11printNumberEmh
-                0x00000000       0x92 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x92 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEmi
-                0x00000000       0x1a C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x1a C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEhi
-                0x00000000        0xe C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0xe C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEhi
-                0x00000000       0x24 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEji
-                0x00000000        0xc C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0xc C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEji
-                0x00000000       0x24 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEmi
-                0x00000000       0x24 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEli
-                0x00000000       0x90 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x90 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEii
-                0x00000000        0xe C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0xe C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEii
-                0x00000000       0x24 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEli
-                0x00000000       0x24 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print10printFloatEdh
-                0x00000000      0x1b6 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000      0x1b6 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEdi
-                0x00000000        0x4 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0x4 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEdi
-                0x00000000       0x24 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .rodata._ZTV5Print
-                0x00000000        0x8 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .text          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
- .data          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
- .bss           0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+                0x00000000        0x8 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .data          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .bss           0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
  .text.detachInterrupt
-                0x00000000       0x54 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+                0x00000000       0x54 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
  .progmem.gcc_sw_table.detachInterrupt
-                0x00000000        0xe C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
- .text          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .data          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .bss           0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .text.millis   0x00000000       0x18 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .text          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
- .data          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
- .bss           0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                0x00000000        0xe C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .text          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .data          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .bss           0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text.millis   0x00000000       0x18 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .data          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .bss           0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
  .text.analogReference
-                0x00000000        0x6 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                0x00000000        0x6 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
  .text.analogWrite
-                0x00000000      0x192 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                0x00000000      0x192 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
  .progmem.gcc_sw_table.analogWrite
-                0x00000000       0x24 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
- .text          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .data          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .bss           0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000000       0x24 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .text          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .data          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .bss           0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
  .text.digitalRead
-                0x00000000       0x52 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000000       0x52 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
  .progmem.data.port_to_input_PGM
-                0x00000000       0x1a C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .text          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
- .data          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
- .bss           0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
- .text.shiftIn  0x00000000       0x76 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
- .text          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .data          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .bss           0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                0x00000000       0x1a C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
+ .data          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
+ .bss           0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
+ .text.shiftIn  0x00000000       0x76 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
+ .text          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .data          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .bss           0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
  .text.__cxa_pure_virtual
-                0x00000000        0x4 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                0x00000000        0x4 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
  .text.__cxa_deleted_virtual
-                0x00000000        0x4 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_info    0x00000000       0x76 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_abbrev  0x00000000       0x6d C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                0x00000000        0x4 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_info    0x00000000       0x76 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_abbrev  0x00000000       0x6d C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
  .debug_aranges
-                0x00000000       0x20 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_ranges  0x00000000       0x10 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_line    0x00000000       0x95 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_str     0x00000000      0x1a4 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .comment       0x00000000       0x31 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_frame   0x00000000       0x34 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .text          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
- .data          0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
- .bss           0x00000000        0x0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
+                0x00000000       0x20 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_ranges  0x00000000       0x10 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_line    0x00000000       0xa9 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_str     0x00000000      0x1a7 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .comment       0x00000000       0x31 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_frame   0x00000000       0x34 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .data          0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .bss           0x00000000        0x0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
  .text.avr-libc.fplib
-                0x00000000        0xe f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
  .text.avr-libc.fplib
-                0x00000000       0xcc f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o)
+                0x00000000       0xcc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o)
  .text.avr-libc.fplib
-                0x00000000        0xa f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3.o)
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3.o)
  .text.avr-libc.fplib
-                0x00000000        0x8 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3x.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3x.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+                0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3x.o)
  .text.avr-libc.fplib
-                0x00000000       0xdc f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3x.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
+                0x00000000       0xdc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
  .text.avr-libc.fplib
-                0x00000000       0x5e f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(floatsisf.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(floatsisf.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(floatsisf.o)
+                0x00000000       0x5e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(floatsisf.o)
  .text.avr-libc.fplib
-                0x00000000       0x7a f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(floatsisf.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
+                0x00000000       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
  .text.avr-libc.fplib
-                0x00000000       0x48 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+                0x00000000       0x48 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
  .text.avr-libc.fplib
-                0x00000000        0xc f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+                0x00000000        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
  .text.avr-libc.fplib
-                0x00000000        0x6 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+                0x00000000        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
  .text.avr-libc.fplib
-                0x00000000        0xe f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
  .text.avr-libc.fplib
-                0x00000000        0xe f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
  .text.avr-libc.fplib
-                0x00000000       0x22 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
+                0x00000000       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
  .text.avr-libc.fplib
-                0x00000000       0x44 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
+                0x00000000       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
  .text.avr-libc.fplib
-                0x00000000        0xe f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(gesf2.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(gesf2.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(gesf2.o)
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(gesf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(gesf2.o)
  .text.avr-libc.fplib
-                0x00000000        0xa f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(gesf2.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(gesf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
  .text.avr-libc.fplib
-                0x00000000        0x8 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+                0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
  .text.avr-libc.fplib
-                0x00000000       0xd2 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(unordsf2.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(unordsf2.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(unordsf2.o)
+                0x00000000       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(unordsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(unordsf2.o)
  .text.avr-libc.fplib
-                0x00000000        0xa f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(unordsf2.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a(unordsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
  .text.libgcc.mul
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
- .text.libgcc   0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
  .text.libgcc.prologue
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
  .text.libgcc.builtins
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
  .text.libgcc.fmul
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
  .text.libgcc.fixed
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
  .text.libgcc.mul
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
  .text.libgcc.div
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
- .text.libgcc   0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
  .text.libgcc.prologue
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
  .text.libgcc.builtins
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
  .text.libgcc.fmul
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
  .text.libgcc.fixed
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
  .text.libgcc.mul
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
  .text.libgcc.div
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
  .text.libgcc.prologue
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
  .text.libgcc.builtins
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
  .text.libgcc.fmul
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
  .text.libgcc.fixed
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
  .text.libgcc.mul
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
  .text.libgcc.div
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
- .text.libgcc   0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
  .text.libgcc.prologue
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
  .text.libgcc.builtins
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
  .text.libgcc.fmul
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
  .text.libgcc.fixed
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
  .text.libgcc.mul
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
  .text.libgcc.div
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
- .text.libgcc   0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
  .text.libgcc.prologue
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
  .text.libgcc.builtins
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
  .text.libgcc.fmul
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
  .text.libgcc.fixed
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
  .text.libgcc.mul
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
  .text.libgcc.div
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
- .text.libgcc   0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
  .text.libgcc.prologue
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
  .text.libgcc.builtins
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
  .text.libgcc.fmul
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
  .text.libgcc.fixed
-                0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
- .text          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(abort.o)
- .data          0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(abort.o)
- .bss           0x00000000        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(abort.o)
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(abort.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(abort.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(abort.o)
  .text.avr-libc
-                0x00000000        0xa f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(abort.o)
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(abort.o)
 
 Memory Configuration
 
@@ -502,7 +502,7 @@ user_signatures  0x00850000         0x00000400         rw !x
 Linker script and memory map
 
 Address of section .data set to 0x800200
-LOAD F:/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
 LOAD analog_joystick.o
 LOAD controller.o
 LOAD hardware_serial_wrapper.o
@@ -513,16 +513,16 @@ LOAD liquid_crystal_wrapper.o
 LOAD sketch.o
 LOAD tact_switch_board.o
 START GROUP
-LOAD f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a
-LOAD C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a
+LOAD C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a
 END GROUP
-LOAD f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a
-LOAD f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a
 START GROUP
-LOAD f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a
-LOAD f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a
-LOAD f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a
-LOAD F:/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6\libatmega2560.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6\libatmega2560.a
 END GROUP
                 0x00100000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
                 0x0000fe00                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xfe00
@@ -624,15 +624,15 @@ END GROUP
 
 .text           0x00000000     0x1984
  *(.vectors)
- .vectors       0x00000000       0xe4 F:/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .vectors       0x00000000       0xe4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
                 0x00000000                __vector_default
                 0x00000000                __vectors
  *(.vectors)
  *(.progmem.gcc*)
  .progmem.gcc_sw_table.attachInterrupt
-                0x000000e4        0xe C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+                0x000000e4        0xe C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
  .progmem.gcc_sw_table.turnOffPWM
-                0x000000f2       0x24 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000f2       0x24 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                 0x00000116                . = ALIGN (0x2)
                 0x00000116                __trampolines_start = .
  *(.trampolines)
@@ -643,19 +643,19 @@ END GROUP
  *libc.a:*(.progmem.data)
  *(.progmem*)
  .progmem.data.digital_pin_to_timer_PGM
-                0x00000116       0x46 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000116       0x46 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                 0x00000116                digital_pin_to_timer_PGM
  .progmem.data.digital_pin_to_bit_mask_PGM
-                0x0000015c       0x46 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x0000015c       0x46 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                 0x0000015c                digital_pin_to_bit_mask_PGM
  .progmem.data.digital_pin_to_port_PGM
-                0x000001a2       0x46 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000001a2       0x46 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                 0x000001a2                digital_pin_to_port_PGM
  .progmem.data.port_to_output_PGM
-                0x000001e8       0x1a C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000001e8       0x1a C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                 0x000001e8                port_to_output_PGM
  .progmem.data.port_to_mode_PGM
-                0x00000202       0x1a C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000202       0x1a C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                 0x00000202                port_to_mode_PGM
                 0x0000021c                . = ALIGN (0x2)
  *(.jumptables)
@@ -664,7 +664,7 @@ END GROUP
  *(.lowtext*)
                 0x0000021c                __ctors_start = .
  *(.ctors)
- .ctors         0x0000021c        0x2 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .ctors         0x0000021c        0x2 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
                 0x0000021e                __ctors_end = .
                 0x0000021e                __dtors_start = .
  *(.dtors)
@@ -672,26 +672,26 @@ END GROUP
  SORT(*)(.ctors)
  SORT(*)(.dtors)
  *(.init0)
- .init0         0x0000021e        0x0 F:/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .init0         0x0000021e        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
                 0x0000021e                __init
  *(.init0)
  *(.init1)
  *(.init1)
  *(.init2)
- .init2         0x0000021e       0x10 F:/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .init2         0x0000021e       0x10 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
  *(.init2)
  *(.init3)
  *(.init3)
  *(.init4)
- .init4         0x0000022e       0x1a f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
+ .init4         0x0000022e       0x1a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_copy_data.o)
                 0x0000022e                __do_copy_data
- .init4         0x00000248       0x10 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
+ .init4         0x00000248       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_clear_bss.o)
                 0x00000248                __do_clear_bss
  *(.init4)
  *(.init5)
  *(.init5)
  *(.init6)
- .init6         0x00000258       0x20 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
+ .init6         0x00000258       0x20 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_ctors.o)
                 0x00000258                __do_global_ctors
  *(.init6)
  *(.init7)
@@ -699,10 +699,10 @@ END GROUP
  *(.init8)
  *(.init8)
  *(.init9)
- .init9         0x00000278        0x6 F:/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .init9         0x00000278        0x6 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
  *(.init9)
  *(.text)
- .text          0x0000027e        0x2 F:/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .text          0x0000027e        0x2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
                 0x0000027e                __vector_38
                 0x0000027e                __vector_22
                 0x0000027e                __vector_28
@@ -857,130 +857,130 @@ END GROUP
                 0x000009d0       0x90 tact_switch_board.o
                 0x000009d0                tact_switch_button_pressed
  .text._ZN14HardwareSerial9availableEv
-                0x00000a60       0x18 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000a60       0x18 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
                 0x00000a60                _ZN14HardwareSerial9availableEv
  .text._ZN14HardwareSerial4peekEv
-                0x00000a78       0x1c C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000a78       0x1c C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
                 0x00000a78                _ZN14HardwareSerial4peekEv
  .text._ZN14HardwareSerial4readEv
-                0x00000a94       0x28 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000a94       0x28 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
                 0x00000a94                _ZN14HardwareSerial4readEv
  .text._Z14serialEventRunv
-                0x00000abc       0x78 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000abc       0x78 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
                 0x00000abc                _Z14serialEventRunv
  .text._ZN14HardwareSerial17_tx_udr_empty_irqEv
-                0x00000b34       0x42 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000b34       0x42 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
                 0x00000b34                _ZN14HardwareSerial17_tx_udr_empty_irqEv
  .text._ZN14HardwareSerial5writeEh
-                0x00000b76       0x8c C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000b76       0x8c C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
                 0x00000b76                _ZN14HardwareSerial5writeEh
  .text._ZN14HardwareSerial5flushEv
-                0x00000c02       0x42 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000c02       0x42 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
                 0x00000c02                _ZN14HardwareSerial5flushEv
  .text._ZN14HardwareSerial5beginEmh
-                0x00000c44       0xc6 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000c44       0xc6 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
                 0x00000c44                _ZN14HardwareSerial5beginEmh
  .text.__vector_25
-                0x00000d0a       0x6c C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000d0a       0x6c C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
                 0x00000d0a                __vector_25
  .text.__vector_26
-                0x00000d76       0x52 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000d76       0x52 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
                 0x00000d76                __vector_26
  .text._Z17Serial0_availablev
-                0x00000dc8       0x12 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000dc8       0x12 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
                 0x00000dc8                _Z17Serial0_availablev
  .text.startup._GLOBAL__sub_I___vector_25
-                0x00000dda       0x5a C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000dda       0x5a C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
  .text.initVariant
-                0x00000e34        0x2 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000e34        0x2 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
                 0x00000e34                initVariant
  .text.startup.main
-                0x00000e36       0x14 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000e36       0x14 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
                 0x00000e36                main
- .text._Znwj    0x00000e4a        0x2 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
+ .text._Znwj    0x00000e4a        0x2 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
                 0x00000e4a                _Znwj
  .text._ZN5Print5writeEPKhj
-                0x00000e4c       0x54 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000e4c       0x54 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
                 0x00000e4c                _ZN5Print5writeEPKhj
  .text._ZN5Print5writeEPKc
-                0x00000ea0       0x2a C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000ea0       0x2a C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
                 0x00000ea0                _ZN5Print5writeEPKc
  .text._ZN5Print5printEPKc
-                0x00000eca        0x2 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000eca        0x2 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
                 0x00000eca                _ZN5Print5printEPKc
  .text._ZN5Print7printlnEv
-                0x00000ecc        0x6 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000ecc        0x6 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
                 0x00000ecc                _ZN5Print7printlnEv
  .text._ZN5Print7printlnEPKc
-                0x00000ed2       0x20 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000ed2       0x20 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
                 0x00000ed2                _ZN5Print7printlnEPKc
- .text.nothing  0x00000ef2        0x2 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .text.nothing  0x00000ef2        0x2 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
  .text.attachInterrupt
-                0x00000ef4       0xe6 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+                0x00000ef4       0xe6 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
                 0x00000ef4                attachInterrupt
  .text.__vector_1
-                0x00000fda       0x56 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+                0x00000fda       0x56 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
                 0x00000fda                __vector_1
  .text.__vector_2
-                0x00001030       0x56 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+                0x00001030       0x56 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
                 0x00001030                __vector_2
  .text.__vector_3
-                0x00001086       0x56 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+                0x00001086       0x56 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
                 0x00001086                __vector_3
  .text.__vector_4
-                0x000010dc       0x56 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+                0x000010dc       0x56 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
                 0x000010dc                __vector_4
  .text.__vector_5
-                0x00001132       0x56 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+                0x00001132       0x56 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
                 0x00001132                __vector_5
  .text.__vector_6
-                0x00001188       0x56 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+                0x00001188       0x56 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
                 0x00001188                __vector_6
  .text.__vector_7
-                0x000011de       0x56 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+                0x000011de       0x56 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
                 0x000011de                __vector_7
  .text.__vector_8
-                0x00001234       0x56 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+                0x00001234       0x56 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
                 0x00001234                __vector_8
  .text.__vector_23
-                0x0000128a       0x94 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x0000128a       0x94 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
                 0x0000128a                __vector_23
- .text.micros   0x0000131e       0x4a C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text.micros   0x0000131e       0x4a C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
                 0x0000131e                micros
- .text.delay    0x00001368       0x72 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text.delay    0x00001368       0x72 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
                 0x00001368                delay
  .text.delayMicroseconds
-                0x000013da       0x16 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x000013da       0x16 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
                 0x000013da                delayMicroseconds
- .text.init     0x000013f0       0xc4 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text.init     0x000013f0       0xc4 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
                 0x000013f0                init
  .text.analogRead
-                0x000014b4       0x4a C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                0x000014b4       0x4a C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
                 0x000014b4                analogRead
  .text.turnOffPWM
-                0x000014fe       0xaa C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .text.pinMode  0x000015a8       0x78 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000014fe       0xaa C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x000015a8       0x78 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                 0x000015a8                pinMode
  .text.digitalWrite
-                0x00001620       0x5c C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00001620       0x5c C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                 0x00001620                digitalWrite
  .text.shiftOut
-                0x0000167c       0x6c C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
+                0x0000167c       0x6c C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
                 0x0000167c                shiftOut
- .text.__empty  0x000016e8        0x2 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .text.__empty  0x000016e8        0x2 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
                 0x000016e8                yield
  .text.libgcc.div
-                0x000016ea       0x44 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
+                0x000016ea       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_udivmodsi4.o)
                 0x000016ea                __udivmodsi4
- .text.libgcc   0x0000172e       0x10 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc   0x0000172e       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_tablejump2.o)
                 0x0000172e                __tablejump2__
  .text.avr-libc
-                0x0000173e      0x242 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+                0x0000173e      0x242 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
                 0x0000173e                malloc
                 0x0000186e                free
                 0x00001980                . = ALIGN (0x2)
  *(.fini9)
- .fini9         0x00001980        0x0 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .fini9         0x00001980        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
                 0x00001980                _exit
                 0x00001980                exit
  *(.fini9)
@@ -1001,21 +1001,21 @@ END GROUP
  *(.fini1)
  *(.fini1)
  *(.fini0)
- .fini0         0x00001980        0x4 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
+ .fini0         0x00001980        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr6\libgcc.a(_exit.o)
  *(.fini0)
                 0x00001984                _etext = .
 
 .data           0x00800200       0x9c load address 0x00001984
                 0x00800200                PROVIDE (__data_start, .)
  *(.data)
- .data          0x00800200        0x6 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+ .data          0x00800200        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
                 0x00800200                __malloc_heap_end
                 0x00800202                __malloc_heap_start
                 0x00800204                __malloc_margin
  *(.data*)
- .data.intFunc  0x00800206       0x10 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .data.intFunc  0x00800206       0x10 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
  .data.analog_reference
-                0x00800216        0x1 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                0x00800216        0x1 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
                 0x00800216                analog_reference
  *(.rodata)
  .rodata        0x00800217       0x14 tact_switch_board.o
@@ -1026,10 +1026,10 @@ END GROUP
                 0x00800275        0x8 LiquidCrystal.o
                 0x00800275                _ZTV13LiquidCrystal
  .rodata._ZTV14HardwareSerial
-                0x0080027d       0x10 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0080027d       0x10 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
                 0x0080027d                _ZTV14HardwareSerial
  .rodata.str1.1
-                0x0080028d        0xf C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x0080028d        0xf C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  *(.gnu.linkonce.d*)
                 0x0080029c                . = ALIGN (0x2)
                 0x0080029c                _edata = .
@@ -1039,20 +1039,20 @@ END GROUP
                 0x0080029c                PROVIDE (__bss_start, .)
  *(.bss)
  *(.bss*)
- .bss.Serial    0x0080029c       0x9d C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .bss.Serial    0x0080029c       0x9d C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
                 0x0080029c                Serial
  .bss.timer0_fract
-                0x00800339        0x1 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00800339        0x1 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
  .bss.timer0_millis
-                0x0080033a        0x4 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x0080033a        0x4 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
                 0x0080033a                timer0_millis
  .bss.timer0_overflow_count
-                0x0080033e        0x4 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x0080033e        0x4 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
                 0x0080033e                timer0_overflow_count
  *(COMMON)
  COMMON         0x00800342        0xe sketch.o
                 0x00800342                rc_controller
- COMMON         0x00800350        0x4 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+ COMMON         0x00800350        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
                 0x00800350                __brkval
                 0x00800352                __flp
                 0x00800354                PROVIDE (__bss_end, .)
@@ -1115,23 +1115,23 @@ END GROUP
  .comment       0x00000030       0x31 liquid_crystal_wrapper.o
  .comment       0x00000030       0x31 sketch.o
  .comment       0x00000030       0x31 tact_switch_board.o
- .comment       0x00000030       0x31 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .comment       0x00000030       0x31 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .comment       0x00000030       0x31 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .comment       0x00000030       0x31 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
- .comment       0x00000030       0x31 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .comment       0x00000030       0x31 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
- .comment       0x00000030       0x31 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .comment       0x00000030       0x31 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
- .comment       0x00000030       0x31 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .comment       0x00000030       0x31 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
- .comment       0x00000030       0x31 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
- .comment       0x00000030       0x31 f:/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+ .comment       0x00000030       0x31 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .comment       0x00000030       0x31 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .comment       0x00000030       0x31 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .comment       0x00000030       0x31 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
+ .comment       0x00000030       0x31 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .comment       0x00000030       0x31 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .comment       0x00000030       0x31 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .comment       0x00000030       0x31 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .comment       0x00000030       0x31 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .comment       0x00000030       0x31 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
+ .comment       0x00000030       0x31 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .comment       0x00000030       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr6\libc.a(malloc.o)
 
 .note.gnu.avr.deviceinfo
                 0x00000000       0x40
  .note.gnu.avr.deviceinfo
-                0x00000000       0x40 F:/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
 
 .note.gnu.build-id
  *(.note.gnu.build-id)
@@ -1169,102 +1169,102 @@ END GROUP
  .debug_aranges
                 0x00000278       0x28 tact_switch_board.o
  .debug_aranges
-                0x000002a0       0x68 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000002a0       0x68 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
  .debug_aranges
-                0x00000308       0x38 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000308       0x38 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
  .debug_aranges
-                0x00000340       0x30 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000340       0x30 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
  .debug_aranges
-                0x00000370       0x28 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
+                0x00000370       0x28 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
  .debug_aranges
-                0x00000398       0xf0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000398       0xf0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .debug_aranges
-                0x00000488       0x70 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+                0x00000488       0x70 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
  .debug_aranges
-                0x000004f8       0x48 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x000004f8       0x48 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
  .debug_aranges
-                0x00000540       0x30 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                0x00000540       0x30 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
  .debug_aranges
-                0x00000570       0x38 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000570       0x38 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
  .debug_aranges
-                0x000005a8       0x28 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
+                0x000005a8       0x28 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
  .debug_aranges
-                0x000005d0       0x20 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                0x000005d0       0x20 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x00000000     0xc4e4
+.debug_info     0x00000000     0xc500
  *(.debug_info .gnu.linkonce.wi.*)
- .debug_info    0x00000000      0xbbc F:/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .debug_info    0x00000000      0xbbc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
  .debug_info    0x00000bbc      0x10e analog_joystick.o
- .debug_info    0x00000cca      0x9c5 controller.o
- .debug_info    0x0000168f      0x294 hardware_serial_wrapper.o
- .debug_info    0x00001923      0x58a led_shift_register.o
- .debug_info    0x00001ead      0x376 light_control_leds.o
- .debug_info    0x00002223     0x1d0c LiquidCrystal.o
- .debug_info    0x00003f2f      0x3e2 liquid_crystal_wrapper.o
- .debug_info    0x00004311      0x4f4 sketch.o
- .debug_info    0x00004805      0x37c tact_switch_board.o
- .debug_info    0x00004b81     0x1f9f C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_info    0x00006b20     0x1af7 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_info    0x00008617      0x295 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_info    0x000088ac      0x11c C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
- .debug_info    0x000089c8     0x28bc C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_info    0x0000b284      0x301 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
- .debug_info    0x0000b585      0x329 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_info    0x0000b8ae      0x2cd C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
- .debug_info    0x0000bb7b      0x63a C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_info    0x0000c1b5      0x2f1 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
- .debug_info    0x0000c4a6       0x3e C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_info    0x00000cca      0x9cd controller.o
+ .debug_info    0x00001697      0x294 hardware_serial_wrapper.o
+ .debug_info    0x0000192b      0x58e led_shift_register.o
+ .debug_info    0x00001eb9      0x37a light_control_leds.o
+ .debug_info    0x00002233     0x1d0c LiquidCrystal.o
+ .debug_info    0x00003f3f      0x3e2 liquid_crystal_wrapper.o
+ .debug_info    0x00004321      0x4fc sketch.o
+ .debug_info    0x0000481d      0x380 tact_switch_board.o
+ .debug_info    0x00004b9d     0x1f9f C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_info    0x00006b3c     0x1af7 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_info    0x00008633      0x295 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_info    0x000088c8      0x11c C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
+ .debug_info    0x000089e4     0x28bc C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_info    0x0000b2a0      0x301 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .debug_info    0x0000b5a1      0x329 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_info    0x0000b8ca      0x2cd C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_info    0x0000bb97      0x63a C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_info    0x0000c1d1      0x2f1 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
+ .debug_info    0x0000c4c2       0x3e C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
-.debug_abbrev   0x00000000     0x2e24
+.debug_abbrev   0x00000000     0x2e2e
  *(.debug_abbrev)
- .debug_abbrev  0x00000000      0xb1a F:/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .debug_abbrev  0x00000000      0xb1a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
  .debug_abbrev  0x00000b1a       0xc3 analog_joystick.o
- .debug_abbrev  0x00000bdd      0x1e7 controller.o
- .debug_abbrev  0x00000dc4      0x173 hardware_serial_wrapper.o
- .debug_abbrev  0x00000f37      0x1ce led_shift_register.o
- .debug_abbrev  0x00001105      0x164 light_control_leds.o
- .debug_abbrev  0x00001269      0x393 LiquidCrystal.o
- .debug_abbrev  0x000015fc      0x13e liquid_crystal_wrapper.o
- .debug_abbrev  0x0000173a      0x136 sketch.o
- .debug_abbrev  0x00001870      0x13a tact_switch_board.o
- .debug_abbrev  0x000019aa      0x432 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_abbrev  0x00001ddc      0x3a2 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_abbrev  0x0000217e      0x12d C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_abbrev  0x000022ab       0xce C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
- .debug_abbrev  0x00002379      0x469 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_abbrev  0x000027e2       0xed C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
- .debug_abbrev  0x000028cf      0x146 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_abbrev  0x00002a15      0x17a C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
- .debug_abbrev  0x00002b8f      0x15a C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_abbrev  0x00002ce9      0x111 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
- .debug_abbrev  0x00002dfa       0x2a C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_abbrev  0x00000bdd      0x1e9 controller.o
+ .debug_abbrev  0x00000dc6      0x173 hardware_serial_wrapper.o
+ .debug_abbrev  0x00000f39      0x1d0 led_shift_register.o
+ .debug_abbrev  0x00001109      0x166 light_control_leds.o
+ .debug_abbrev  0x0000126f      0x393 LiquidCrystal.o
+ .debug_abbrev  0x00001602      0x13e liquid_crystal_wrapper.o
+ .debug_abbrev  0x00001740      0x138 sketch.o
+ .debug_abbrev  0x00001878      0x13c tact_switch_board.o
+ .debug_abbrev  0x000019b4      0x432 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_abbrev  0x00001de6      0x3a2 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_abbrev  0x00002188      0x12d C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_abbrev  0x000022b5       0xce C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
+ .debug_abbrev  0x00002383      0x469 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_abbrev  0x000027ec       0xed C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .debug_abbrev  0x000028d9      0x146 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_abbrev  0x00002a1f      0x17a C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_abbrev  0x00002b99      0x15a C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_abbrev  0x00002cf3      0x111 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
+ .debug_abbrev  0x00002e04       0x2a C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
-.debug_line     0x00000000     0x3440
+.debug_line     0x00000000     0x3697
  *(.debug_line .debug_line.* .debug_line_end)
- .debug_line    0x00000000      0x1f9 F:/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
- .debug_line    0x000001f9       0xc3 analog_joystick.o
- .debug_line    0x000002bc      0x34e controller.o
- .debug_line    0x0000060a      0x147 hardware_serial_wrapper.o
- .debug_line    0x00000751      0x25e led_shift_register.o
- .debug_line    0x000009af      0x1b8 light_control_leds.o
- .debug_line    0x00000b67      0x8ac LiquidCrystal.o
- .debug_line    0x00001413      0x1cb liquid_crystal_wrapper.o
- .debug_line    0x000015de      0x19d sketch.o
- .debug_line    0x0000177b      0x1b3 tact_switch_board.o
- .debug_line    0x0000192e      0x461 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_line    0x00001d8f      0x22b C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_line    0x00001fba      0x14d C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_line    0x00002107      0x107 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
- .debug_line    0x0000220e      0x5fa C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_line    0x00002808      0x2c6 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
- .debug_line    0x00002ace      0x2b7 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_line    0x00002d85      0x2b0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
- .debug_line    0x00003035      0x270 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_line    0x000032a5      0x15a C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
- .debug_line    0x000033ff       0x41 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_line    0x00000000      0x1f9 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .debug_line    0x000001f9       0xe2 analog_joystick.o
+ .debug_line    0x000002db      0x36d controller.o
+ .debug_line    0x00000648      0x166 hardware_serial_wrapper.o
+ .debug_line    0x000007ae      0x27d led_shift_register.o
+ .debug_line    0x00000a2b      0x1d7 light_control_leds.o
+ .debug_line    0x00000c02      0x8df LiquidCrystal.o
+ .debug_line    0x000014e1      0x1fe liquid_crystal_wrapper.o
+ .debug_line    0x000016df      0x1bc sketch.o
+ .debug_line    0x0000189b      0x1d2 tact_switch_board.o
+ .debug_line    0x00001a6d      0x489 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_line    0x00001ef6      0x253 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_line    0x00002149      0x161 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_line    0x000022aa      0x12f C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
+ .debug_line    0x000023d9      0x622 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_line    0x000029fb      0x2da C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .debug_line    0x00002cd5      0x2cb C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_line    0x00002fa0      0x2c4 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_line    0x00003264      0x284 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_line    0x000034e8      0x16e C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
+ .debug_line    0x00003656       0x41 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
 .debug_frame    0x00000000     0x1238
  *(.debug_frame)
@@ -1277,61 +1277,61 @@ END GROUP
  .debug_frame   0x000005b0       0xa4 liquid_crystal_wrapper.o
  .debug_frame   0x00000654       0x34 sketch.o
  .debug_frame   0x00000688       0x64 tact_switch_board.o
- .debug_frame   0x000006ec      0x110 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_frame   0x000007fc       0xc0 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_frame   0x000008bc       0x54 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_frame   0x00000910       0x54 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
- .debug_frame   0x00000964      0x38c C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_frame   0x00000cf0      0x304 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
- .debug_frame   0x00000ff4       0xc4 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_frame   0x000010b8       0x54 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
- .debug_frame   0x0000110c       0x7c C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_frame   0x00001188       0x8c C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
- .debug_frame   0x00001214       0x24 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_frame   0x000006ec      0x110 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_frame   0x000007fc       0xc0 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_frame   0x000008bc       0x54 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_frame   0x00000910       0x54 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
+ .debug_frame   0x00000964      0x38c C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_frame   0x00000cf0      0x304 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .debug_frame   0x00000ff4       0xc4 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_frame   0x000010b8       0x54 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_frame   0x0000110c       0x7c C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_frame   0x00001188       0x8c C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
+ .debug_frame   0x00001214       0x24 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
-.debug_str      0x00000000     0x2f3f
+.debug_str      0x00000000     0x2f45
  *(.debug_str)
- .debug_str     0x00000000      0x3e6 F:/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
- .debug_str     0x000003e6      0x199 analog_joystick.o
-                                0x1b8 (size before relaxing)
- .debug_str     0x0000057f      0x483 controller.o
-                                0x687 (size before relaxing)
- .debug_str     0x00000a02      0x1ed hardware_serial_wrapper.o
-                                0x32b (size before relaxing)
- .debug_str     0x00000bef       0x81 led_shift_register.o
-                                0x386 (size before relaxing)
- .debug_str     0x00000c70       0x27 light_control_leds.o
-                                0x366 (size before relaxing)
- .debug_str     0x00000c97      0x6f2 LiquidCrystal.o
-                                0x99b (size before relaxing)
- .debug_str     0x00001389       0x42 liquid_crystal_wrapper.o
-                                0x34b (size before relaxing)
- .debug_str     0x000013cb       0x19 sketch.o
-                                0x4ac (size before relaxing)
- .debug_str     0x000013e4       0x27 tact_switch_board.o
-                                0x344 (size before relaxing)
- .debug_str     0x0000140b     0x13e7 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                               0x16dd (size before relaxing)
- .debug_str     0x000027f2       0x8b C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
-                               0x13de (size before relaxing)
- .debug_str     0x0000287d       0x37 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
-                                0x2ba (size before relaxing)
- .debug_str     0x000028b4       0x44 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
-                                0x1d0 (size before relaxing)
- .debug_str     0x000028f8      0x3b4 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                               0x11ff (size before relaxing)
- .debug_str     0x00002cac       0xb4 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
-                                0x27f (size before relaxing)
- .debug_str     0x00002d60       0x76 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                                0x250 (size before relaxing)
- .debug_str     0x00002dd6       0x67 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
-                                0x254 (size before relaxing)
- .debug_str     0x00002e3d       0xa9 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
-                                0x2b5 (size before relaxing)
- .debug_str     0x00002ee6       0x3d C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
-                                0x212 (size before relaxing)
- .debug_str     0x00002f23       0x1c C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
-                                0x145 (size before relaxing)
+ .debug_str     0x00000000      0x3e6 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.132/gcc/dev/atmega2560/avr6/crtatmega2560.o
+ .debug_str     0x000003e6      0x19c analog_joystick.o
+                                0x1bb (size before relaxing)
+ .debug_str     0x00000582      0x483 controller.o
+                                0x68a (size before relaxing)
+ .debug_str     0x00000a05      0x1ed hardware_serial_wrapper.o
+                                0x32e (size before relaxing)
+ .debug_str     0x00000bf2       0x81 led_shift_register.o
+                                0x389 (size before relaxing)
+ .debug_str     0x00000c73       0x27 light_control_leds.o
+                                0x369 (size before relaxing)
+ .debug_str     0x00000c9a      0x6f2 LiquidCrystal.o
+                                0x99e (size before relaxing)
+ .debug_str     0x0000138c       0x42 liquid_crystal_wrapper.o
+                                0x34e (size before relaxing)
+ .debug_str     0x000013ce       0x19 sketch.o
+                                0x4af (size before relaxing)
+ .debug_str     0x000013e7       0x27 tact_switch_board.o
+                                0x347 (size before relaxing)
+ .debug_str     0x0000140e     0x13ea C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                               0x16e0 (size before relaxing)
+ .debug_str     0x000027f8       0x8b C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                               0x13e1 (size before relaxing)
+ .debug_str     0x00002883       0x37 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                                0x2bd (size before relaxing)
+ .debug_str     0x000028ba       0x44 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
+                                0x1d3 (size before relaxing)
+ .debug_str     0x000028fe      0x3b4 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                               0x1202 (size before relaxing)
+ .debug_str     0x00002cb2       0xb4 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+                                0x282 (size before relaxing)
+ .debug_str     0x00002d66       0x76 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                                0x253 (size before relaxing)
+ .debug_str     0x00002ddc       0x67 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                                0x257 (size before relaxing)
+ .debug_str     0x00002e43       0xa9 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                                0x2b8 (size before relaxing)
+ .debug_str     0x00002eec       0x3d C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
+                                0x215 (size before relaxing)
+ .debug_str     0x00002f29       0x1c C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                                0x148 (size before relaxing)
 
 .debug_loc      0x00000000     0x5fd5
  *(.debug_loc)
@@ -1343,15 +1343,15 @@ END GROUP
  .debug_loc     0x000007ef     0x1c4e LiquidCrystal.o
  .debug_loc     0x0000243d      0x2fa liquid_crystal_wrapper.o
  .debug_loc     0x00002737      0x1f5 tact_switch_board.o
- .debug_loc     0x0000292c      0x482 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_loc     0x00002dae      0x18a C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_loc     0x00002f38       0x4c C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
- .debug_loc     0x00002f84     0x1c61 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_loc     0x00004be5      0x7f5 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
- .debug_loc     0x000053da      0x28d C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_loc     0x00005667      0x11c C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
- .debug_loc     0x00005783      0x56b C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_loc     0x00005cee      0x2e7 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
+ .debug_loc     0x0000292c      0x482 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_loc     0x00002dae      0x18a C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_loc     0x00002f38       0x4c C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
+ .debug_loc     0x00002f84     0x1c61 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_loc     0x00004be5      0x7f5 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .debug_loc     0x000053da      0x28d C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_loc     0x00005667      0x11c C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_loc     0x00005783      0x56b C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_loc     0x00005cee      0x2e7 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
 
 .debug_macinfo
  *(.debug_macinfo)
@@ -1382,17 +1382,17 @@ END GROUP
  .debug_ranges  0x00000238       0x38 liquid_crystal_wrapper.o
  .debug_ranges  0x00000270       0x18 sketch.o
  .debug_ranges  0x00000288       0x18 tact_switch_board.o
- .debug_ranges  0x000002a0       0x58 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_ranges  0x000002f8       0x28 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_ranges  0x00000320       0x20 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_ranges  0x00000340       0x18 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
- .debug_ranges  0x00000358      0x110 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_ranges  0x00000468       0x60 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
- .debug_ranges  0x000004c8       0x38 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_ranges  0x00000500       0x20 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
- .debug_ranges  0x00000520       0x28 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_ranges  0x00000548       0x18 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
- .debug_ranges  0x00000560       0x10 C:\Users\Bunchu\Documents\GitHub\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_ranges  0x000002a0       0x58 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_ranges  0x000002f8       0x28 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_ranges  0x00000320       0x20 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_ranges  0x00000340       0x18 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(new.o)
+ .debug_ranges  0x00000358      0x110 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_ranges  0x00000468       0x60 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .debug_ranges  0x000004c8       0x38 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_ranges  0x00000500       0x20 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_ranges  0x00000520       0x28 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_ranges  0x00000548       0x18 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(wiring_shift.o)
+ .debug_ranges  0x00000560       0x10 C:\Users\mkamuda\Documents\Projects\RCController_v3\RCController_v3\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
 .debug_macro
  *(.debug_macro)

@@ -1,8 +1,8 @@
 #ifndef LIGHT_CONTROL_LEDS_H
 #define LIGHT_CONTROL_LEDS_H
 
-#include "types.h"
-#include "led_shift_register.h"
+#include <enums.h>
+#include <led_shift_register.h>
 
 typedef struct light_control_leds
 {

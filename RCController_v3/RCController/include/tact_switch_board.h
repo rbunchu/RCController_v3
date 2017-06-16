@@ -1,8 +1,8 @@
 #ifndef TACT_SWITCH_BOARD_H
 #define TACT_SWITCH_BOARD_H
 
-#include "analog_button.h"
-#include "Arduino.h"
+#include <analog_button.h>
+#include <Arduino.h>
 
 typedef struct tact_switch_board 
 {

@@ -1,4 +1,4 @@
-#include "analog_joystick.h"
+#include <analog_joystick.h>
 
 
 analog_joystick *analog_joystick_create(short analog_x, short analog_y, short action_button)

@@ -15,19 +15,19 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, READONLY
   5 .debug_aranges 000005f0  00000000  00000000  00001b24  2**0
                   CONTENTS, READONLY, DEBUGGING
-  6 .debug_info   0000c4e4  00000000  00000000  00002114  2**0
+  6 .debug_info   0000c500  00000000  00000000  00002114  2**0
                   CONTENTS, READONLY, DEBUGGING
-  7 .debug_abbrev 00002e24  00000000  00000000  0000e5f8  2**0
+  7 .debug_abbrev 00002e2e  00000000  00000000  0000e614  2**0
                   CONTENTS, READONLY, DEBUGGING
-  8 .debug_line   00003440  00000000  00000000  0001141c  2**0
+  8 .debug_line   00003697  00000000  00000000  00011442  2**0
                   CONTENTS, READONLY, DEBUGGING
-  9 .debug_frame  00001238  00000000  00000000  0001485c  2**2
+  9 .debug_frame  00001238  00000000  00000000  00014adc  2**2
                   CONTENTS, READONLY, DEBUGGING
- 10 .debug_str    00002f3f  00000000  00000000  00015a94  2**0
+ 10 .debug_str    00002f45  00000000  00000000  00015d14  2**0
                   CONTENTS, READONLY, DEBUGGING
- 11 .debug_loc    00005fd5  00000000  00000000  000189d3  2**0
+ 11 .debug_loc    00005fd5  00000000  00000000  00018c59  2**0
                   CONTENTS, READONLY, DEBUGGING
- 12 .debug_ranges 00000570  00000000  00000000  0001e9a8  2**0
+ 12 .debug_ranges 00000570  00000000  00000000  0001ec2e  2**0
                   CONTENTS, READONLY, DEBUGGING
 
 Disassembly of section .text:
@@ -266,7 +266,7 @@ Disassembly of section .text:
      27e:	c0 ce       	rjmp	.-640    	; 0x0 <__vectors>
 
 00000280 <analog_joystick_create>:
-#include "analog_joystick.h"
+#include <analog_joystick.h>
 
 
 analog_joystick *analog_joystick_create(short analog_x, short analog_y, short action_button)
@@ -328,7 +328,7 @@ void controller_interrupt_buttons()
      2c2:	cd b7       	in	r28, 0x3d	; 61
      2c4:	de b7       	in	r29, 0x3e	; 62
 	#ifndef DEBUG
-	hardware_serial_println(rc_controller.logger, "Interrupt");
+		hardware_serial_println(rc_controller.logger, "Interrupt");
 	#endif
 
 	int value = analogRead(rc_controller.switches->data_pin);
@@ -389,7 +389,7 @@ void controller_interrupt_buttons()
      30c:	08 95       	ret
 
 0000030e <controller_initialize>:
-#include "controller.h"
+#include <controller.h>
 
 void controller_initialize(controller *self)
 {
@@ -438,20 +438,22 @@ void controller_initialize(controller *self)
      358:	81 e0       	ldi	r24, 0x01	; 1
      35a:	90 e0       	ldi	r25, 0x00	; 0
      35c:	91 df       	rcall	.-222    	; 0x280 <analog_joystick_create>
-	self->logger = hardware_serial_get();
+	#ifdef DEBUG
+		self->logger = hardware_serial_get();
      35e:	9b 87       	std	Y+11, r25	; 0x0b
      360:	8a 87       	std	Y+10, r24	; 0x0a
      362:	8f d0       	rcall	.+286    	; 0x482 <hardware_serial_get>
-	hardware_serial_begin(self->logger, 9600);
+		hardware_serial_begin(self->logger, 9600);
      364:	9d 87       	std	Y+13, r25	; 0x0d
      366:	8c 87       	std	Y+12, r24	; 0x0c
      368:	60 e8       	ldi	r22, 0x80	; 128
-	hardware_serial_println(self->logger, "Initializing controller...");
+		hardware_serial_println(self->logger, "Initializing controller...");
      36a:	75 e2       	ldi	r23, 0x25	; 37
      36c:	8d d0       	rcall	.+282    	; 0x488 <hardware_serial_begin>
      36e:	6b e2       	ldi	r22, 0x2B	; 43
      370:	72 e0       	ldi	r23, 0x02	; 2
      372:	8c 85       	ldd	r24, Y+12	; 0x0c
+	#endif	
 
 	self->lcd = lcd_get(8, 9, 4, 5, 6, 7);
      374:	9d 85       	ldd	r25, Y+13	; 0x0d
@@ -905,7 +907,7 @@ void led_shift_register_off(led_shift_register* shift_register, info_led_type le
      5c2:	69 cf       	rjmp	.-302    	; 0x496 <led_shift_register_write>
 
 000005c4 <light_control_leds_create>:
-#include "light_control_leds.h"
+#include <light_control_leds.h>
 
 light_control_leds * light_control_leds_create(led_shift_register * shift_register)
 {
@@ -1477,7 +1479,7 @@ void loop() {
      95c:	08 95       	ret
 
 0000095e <tact_switch_board_create>:
-#include "tact_switch_board.h"
+#include <tact_switch_board.h>
 
 tact_switch_board *tact_switch_board_create(char data_pin, char interrupt_pin)
 {

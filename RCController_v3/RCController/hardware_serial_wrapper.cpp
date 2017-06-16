@@ -5,8 +5,8 @@
  *  Author: Bunchu
  */ 
 
- #include "HardwareSerial.h"
- #include "hardware_serial_wrapper.h"
+ #include <HardwareSerial.h>
+ #include <hardware_serial_wrapper.h>
 
 
  extern "C"

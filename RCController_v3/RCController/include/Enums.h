@@ -1,7 +1,7 @@
-#ifndef TYPES_H
-#define TYPES_H
+#ifndef ENUMS_H
+#define ENUMS_H
 
-typedef enum {
+typedef enum button_type {
 	LIGHT_BUTTON = 1,
 	BUTTON_2 = 2,
 	BUTTON_3 = 3,
@@ -16,7 +16,7 @@ typedef enum {
 	Button_OPTION_RESET = 10
 } button_type;
 
-typedef enum {
+typedef enum info_led_type {
 	LIGHT_LED_OFF = 0,
 	LIGHT_LED_MIN = 1,
 	LED_GREEN_1 = 2,

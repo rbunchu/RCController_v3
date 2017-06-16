@@ -1,8 +1,8 @@
 #ifndef LED_SHIFT_REGISTER_H
 #define LED_SHIFT_REGISTER_H
 
-#include "Arduino.h"
-#include "types.h"
+#include <Arduino.h>
+#include <enums.h>
 
 typedef struct led_shift_register
 {

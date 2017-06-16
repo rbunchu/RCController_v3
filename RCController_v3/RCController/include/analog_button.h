@@ -1,7 +1,7 @@
 #ifndef ANALOG_BUTTON_H
 #define ANALOG_BUTTON_H
 
-#include "types.h"
+#include <enums.h>
 
 typedef struct analog_button {
     short minimum;

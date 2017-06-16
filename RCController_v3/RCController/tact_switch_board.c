@@ -1,4 +1,4 @@
-#include "tact_switch_board.h"
+#include <tact_switch_board.h>
 
 tact_switch_board *tact_switch_board_create(char data_pin, char interrupt_pin)
 {

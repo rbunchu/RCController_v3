@@ -1,4 +1,4 @@
-#include "controller.h"
+#include <controller.h>
 
 void controller_initialize(controller *self)
 {
@@ -7,9 +7,11 @@ void controller_initialize(controller *self)
 	self->light_leds = light_control_leds_create(self->leds);	
 	self->joystic_left = analog_joystick_create(1, 5, 6);
 	self->joystic_right = analog_joystick_create(1, 7, 4);
-	self->logger = hardware_serial_get();
-	hardware_serial_begin(self->logger, 9600);
-	hardware_serial_println(self->logger, "Initializing controller...");
+	#ifdef DEBUG
+		self->logger = hardware_serial_get();
+		hardware_serial_begin(self->logger, 9600);
+		hardware_serial_println(self->logger, "Initializing controller...");
+	#endif	
 
 	self->lcd = lcd_get(8, 9, 4, 5, 6, 7);
 	lcd_begin(self->lcd, 16, 2);
@@ -39,7 +41,7 @@ void controller_initialize(controller *self)
 void controller_interrupt_buttons()
 {
 	#ifndef DEBUG
-	hardware_serial_println(rc_controller.logger, "Interrupt");
+		hardware_serial_println(rc_controller.logger, "Interrupt");
 	#endif
 
 	int value = analogRead(rc_controller.switches->data_pin);

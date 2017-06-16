@@ -3,7 +3,7 @@
 
 /*End of auto generated code by Atmel studio */
 
-#include "controller.h"
+#include <controller.h>
 
 controller rc_controller;
 
